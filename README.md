@@ -1,3 +1,3 @@
 # Python-Language-Projects
->> Super Market Billing System
->> Library Mangment System
+> Super Market Billing System
+> Library Mangment System

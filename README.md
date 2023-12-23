@@ -1,2 +1,2 @@
 # C++-Language-Projects
-Super Market Mangment System
+Super Market Billing System

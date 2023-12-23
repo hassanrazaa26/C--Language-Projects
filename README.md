@@ -1,2 +1,2 @@
-# C-Language-Projects
+# C++-Language-Projects
 Super Market Mangment System
